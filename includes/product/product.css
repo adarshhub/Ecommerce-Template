@@ -1,0 +1,58 @@
+.productContainer {
+
+	padding: 10px;
+}
+
+.productDetails {
+	
+	overflow: hidden;
+}
+.rightDetails, .leftDetails {
+	
+	float: left;
+
+}
+
+.leftDetails {
+	width: 35%;
+	text-align: center;
+}
+
+.rightDetails {
+	width: 55%;
+	margin-left: 20px;
+	padding: 10px;
+}
+
+.description {
+	font-size: 20px;
+	color: #333;
+}
+
+.leftDetails img{
+	width: 250px;
+	height: 400px;
+}
+
+.price {
+	margin: 20px;
+	font-size: 25px;
+	font-weight: bold;
+	float: right;
+}
+
+.addToCartbtn{
+	text-align: center;
+	margin: 5px;
+	padding: 5px 10px;
+	border-radius: 5px;
+	border: 0;
+	color: #fff;
+	background-color: #FF4500;
+	font-size: 30px;
+	margin-right: 40px;
+}
+
+.addToCart {
+	text-align: right;
+}
